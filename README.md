@@ -1,0 +1,2 @@
+# bsqli
+blind sqli 
